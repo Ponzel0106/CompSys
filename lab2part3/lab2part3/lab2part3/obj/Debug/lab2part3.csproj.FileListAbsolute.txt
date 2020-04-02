@@ -1,0 +1,7 @@
+C:\Users\maksy\OneDrive\Документы\3.2курс\Слюсар\lab2\lab2part3\lab2part3\lab2part3\bin\Debug\lab2part3.exe.config
+C:\Users\maksy\OneDrive\Документы\3.2курс\Слюсар\lab2\lab2part3\lab2part3\lab2part3\bin\Debug\lab2part3.exe
+C:\Users\maksy\OneDrive\Документы\3.2курс\Слюсар\lab2\lab2part3\lab2part3\lab2part3\bin\Debug\lab2part3.pdb
+C:\Users\maksy\OneDrive\Документы\3.2курс\Слюсар\lab2\lab2part3\lab2part3\lab2part3\obj\Debug\lab2part3.csprojAssemblyReference.cache
+C:\Users\maksy\OneDrive\Документы\3.2курс\Слюсар\lab2\lab2part3\lab2part3\lab2part3\obj\Debug\lab2part3.csproj.CoreCompileInputs.cache
+C:\Users\maksy\OneDrive\Документы\3.2курс\Слюсар\lab2\lab2part3\lab2part3\lab2part3\obj\Debug\lab2part3.exe
+C:\Users\maksy\OneDrive\Документы\3.2курс\Слюсар\lab2\lab2part3\lab2part3\lab2part3\obj\Debug\lab2part3.pdb
